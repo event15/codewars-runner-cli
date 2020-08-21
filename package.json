@@ -52,7 +52,7 @@
     "immutable": "^3.8.1",
     "lodash": "^2.4.2",
     "mongodb": "^2.1.18",
-    "mongoose": "^4.4.14",
+    "mongoose": "^5.10.0",
     "quickcheck": "0.0.4",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
